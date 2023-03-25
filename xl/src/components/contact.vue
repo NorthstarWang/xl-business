@@ -1,4 +1,4 @@
-<template>
+<template xmlns="http://www.w3.org/1999/html">
   <div class="relative isolate bg-[#000d2c]" id="contact">
     <div class="mx-auto max-w-7xl">
       <div class="relative px-6 pt-24 pb-20 sm:pt-32 lg:static lg:py-48 lg:px-8">
@@ -33,7 +33,7 @@
                 <span class="sr-only">Telephone</span>
                 <BuildingOffice2Icon class="h-7 w-6 text-gray-400" aria-hidden="true" />
               </dt>
-              <dd>Winnipeg, Canada</dd>
+              <dd>20 Royal Oak Pl NW<br/> Calgary, AB<br/> Canada T3G 0E6</dd>
             </div>
             <div class="flex gap-x-4">
               <dt class="flex-none">
